@@ -2,6 +2,12 @@
 
 基于 Drechsler、Savov、Schnabl（QJE 2017）的中文学术汇报材料。
 
+## 命题3：独立单页
+
+- [下载单页 PPTX](deliverables/DepositsChannel-Proposition3.pptx)：依据用户图片重制，保留命题、模型条件、比较静态及经济含义。
+- 标题20pt、正文及原生可编辑公式16pt，灰底直接设置文本框；黑色圆点列表，重点红色加粗。
+- 对照QJE正文pp.1837—1838及公式（11）—（14）核对；删除图片中对𝓜≤ρ的过强反向推断，保留原文命题的适用条件。
+
 ## 贷款扩展与最优存款：独立单页合并版
 
 - [下载单页 PPTX](deliverables/DepositsChannel-Lending-Merged.pptx)：仅1页，将原1.8—1.10合并，顶部利润函数、下方融资/贷款与最优存款两栏。
