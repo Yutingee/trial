@@ -2,6 +2,13 @@
 
 基于 Drechsler、Savov、Schnabl（QJE 2017）的中文学术汇报材料。
 
+## 贷款扩展与最优存款：独立单页合并版
+
+- [下载单页 PPTX](deliverables/DepositsChannel-Lending-Merged.pptx)：仅1页，将原1.8—1.10合并，顶部利润函数、下方融资/贷款与最优存款两栏。
+- 保留原文公式（11）—（14）与贷款—存款敏感度，全部为可编辑Office公式。标题20pt、正文及公式16pt；灰色高亮直接设置在文本框自身。
+- 已对照QJE 2017 §IV.B（pp.1837—1838）逐式核查，并从利润函数独立推导融资解和存款一阶条件，代数验证一致。核查说明也写入本页演讲者备注。
+- 完整11页PPT未改动。
+
 ## 以用户修改版为基准的最新版 PPT
 
 - [下载 PPTX](deliverables/DepositsChannel-Model.pptx)：11 页，以用户上传的 DepositsChannel-Model (3).pptx 为基准。
